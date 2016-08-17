@@ -2,6 +2,7 @@ casperjs:
   build: .
   links:
     - jekyll
+  cached: true
 
 jekyll:
   build:
