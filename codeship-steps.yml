@@ -1,2 +1,2 @@
 - service: casperjs
-  command: baxsh -c "sleep 2; casperjs test tests"
+  command: bash -c "sleep 2; casperjs test tests"
